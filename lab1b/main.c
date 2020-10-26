@@ -55,8 +55,8 @@ int main()
 
     //kullanicinin cebindeki parayi lira ve kurus turunden ekrana yazdiriyoruz / we print the money in the user's pocket on the screen in lira and kurus types
     printf("\nYou have %d lira and %d kurus in your pocket\n", lira, kurus );
-
-
+    
+    getch();
 
     return 0;
 }
